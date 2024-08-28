@@ -1,4 +1,4 @@
 label prologue:
-    "Starting Point"
+    "Starting point of game."
 
     return
